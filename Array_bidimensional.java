@@ -5,6 +5,8 @@ public class Array_bidimensional {
 
         matrix[0][0]=15;
         matrix[0][1]=18;
+        hjgasjdgasd
+            
         matrix[0][2]=21;
         matrix[0][3]=9;
         matrix[0][4]=5;
